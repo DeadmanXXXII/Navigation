@@ -7,7 +7,7 @@ Below you'll find a categorized list of repositories for easy navigation.
 
 ## Education
 
-- [Repository 1 - Scalable](https://github.com/DeadmanXXXII/Free_Education)
+- [Repository 1 - Free_Education](https://github.com/DeadmanXXXII/Free_Education)
 
 ## Attack
 
