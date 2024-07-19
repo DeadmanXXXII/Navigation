@@ -45,10 +45,10 @@ Below you'll find a categorized list of repositories for easy navigation.
 - [Repository 3 - Cloud_decision_making_units](https://github.com/DeadmanXXXII/Cloud_decision_making_units)
 
 ## Blockchains
-- [Repository 4 - Metaverse-and-Components](https://github.com/DeadmanXXXII/Metaverse-and-Components)
-- [Repository 5 - Producing_Blocks](https://github.com/DeadmanXXXII/Producing_Blocks)
-- [Repository 6 - Token_Images_metadata](https://github.com/DeadmanXXXII/Token_Images_metadata)
-- [Repository 7 - token-list](https://github.com/DeadmanXXXII/token-list)
+- [Repository 1 - Metaverse-and-Components](https://github.com/DeadmanXXXII/Metaverse-and-Components)
+- [Repository 2 - Producing_Blocks](https://github.com/DeadmanXXXII/Producing_Blocks)
+- [Repository 3 - Token_Images_metadata](https://github.com/DeadmanXXXII/Token_Images_metadata)
+- [Repository 4 - token-list](https://github.com/DeadmanXXXII/token-list)
 
 
 ## Games
