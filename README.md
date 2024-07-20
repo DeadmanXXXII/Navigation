@@ -25,7 +25,7 @@ Below you'll find a categorized list of repositories for easy navigation.
 - [Repository 12 - KubeCloud_0Day](https://github.com/DeadmanXXXII/Kubecloud)
 - [Repository 13 - BlackMambaC2](https://github.com/DeadmanXXXII/BlackMamba)
 - [Repository 14 - Clickjacks](https://github.com/DeadmanXXXII/Clickjacking)
-- [Repository 15 - Malware_Education](https://github.com/DeadmanXXXII/TheZoo)
+- [Repository 15 - TheZoo Malware_Education](https://github.com/DeadmanXXXII/TheZoo)
   
 ## Defence
 
