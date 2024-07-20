@@ -23,7 +23,8 @@ Below you'll find a categorized list of repositories for easy navigation.
 - [Repository 10 - Ransomeware-0Day](https://github.com/DeadmanXXXII/Ransomeware)
 - [Repository 11 - Websocket_CLI](https://github.com/DeadmanXXXII/Web_Socket_Command_CLI)
 - [Repository 12 - KubeCloud_0Day](https://github.com/DeadmanXXXII/Kubecloud)
-- [Repository 13 - Clickjacks](https://github.com/DeadmanXXXII/Clickjacking)
+- [Repository 13 - BlackMambaC2](https://github.com/DeadmanXXXII/BlackMamba)
+- [Repository 14 - Clickjacks](https://github.com/DeadmanXXXII/Clickjacking)
   
 ## Defence
 
